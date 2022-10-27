@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(6, 40, 61);
+    text-align: center;
+}
+
+.top-container {
+    font-size: 40px;
+    position: relative;
+    padding-top: 5px;
+}
+
+.guy-typing {
+    padding-right: 100px;
+    height: 40px;
+}
+
+.dev-icon {
+    padding-right: 100px;
+    height: 40px;
+}
+
+.girl-typing {
+    height: 40px;
+}
+
+h1 {
+    font-family: "Dancing Script", cursive;
+    color: white;
+}
+
+h2 {
+    font-family: "Varela Round", sans-serif;
+    color: white;
+}
+
+h3 {
+    color: rgb(254, 245, 172);
+    font-family: "Reem Kufi Ink", sans-serif;
+}
+
+p {
+    font-family: "Reem Kufi Ink", sans-serif;
+    color: cyan;
+}
+
+div {
+    padding: 50px;
+}
+
+hr {
+    width: 5%;
+    border-style: none none dotted;
+    border-color: black;
+    border-width: 5px;
+}
